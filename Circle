@@ -13,7 +13,7 @@ display:block;
 list-style:none;
 width:20px;
 height:20px;
-background:#276b9c;
+background:rgba(255,255,255,0.07);
 animation:animate 45s linear infinite;
 bottom:-150px;z-index:0
 }
