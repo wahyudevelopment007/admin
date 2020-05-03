@@ -4,7 +4,6 @@ top:0;
 left:0;
 right:0;
 bottom:0;
-background: #276b9c;
 overflow:hidden;
 margin:0
 }
@@ -14,7 +13,7 @@ display:block;
 list-style:none;
 width:20px;
 height:20px;
-background:rgba(255,255,255,0.07);
+background:#276b9c;
 animation:animate 45s linear infinite;
 bottom:-150px;z-index:0
 }
