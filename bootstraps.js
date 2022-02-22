@@ -1,4 +1,3 @@
-var js_array = [
 <?php /**
             * Team ID
             *
@@ -44,5 +43,3 @@ var js_array = [
 
             }
             ?>
-            ];
-    console.log(js_array);
